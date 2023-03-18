@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/FollowingSpider.unity
+    path: Assets/P_CriseCardiac/Scene/FollowingSpider.unity
     guid: f1d9b85c02a95534c970d8ad0de7d563
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fde41aab51e109a4f9f223b29a54ac95,
